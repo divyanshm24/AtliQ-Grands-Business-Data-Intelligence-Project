@@ -38,12 +38,11 @@ The dataset consists of historical records from AtliQ Grands hotels across multi
 ---
 
 ## 🛠️ Tools & Technologies
-- **SQL** – Data cleaning, transformation, and analysis.  
+-   
 - **Power BI** – Interactive dashboard creation and storytelling.  
+-**DAX** – Creating Key Measures.
 - **Excel** – Exploratory analysis and validation.  
-- **Git & GitHub** – Version control and collaboration.  
 
----
 
 ## 📈 Key Insights
 - Identified top-performing vs underperforming hotels.  
@@ -56,12 +55,8 @@ The dataset consists of historical records from AtliQ Grands hotels across multi
 
 ## 📌 Deliverables
 - **Interactive Power BI Dashboard** with KPIs, filters, and drilldowns.  
-- **SQL Scripts** for data extraction & transformation.  
 - **Business Insights Report** with actionable recommendations.  
 
+  
 ---
 
-## 🚀 How to Use
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/atliq-grands-project.git
