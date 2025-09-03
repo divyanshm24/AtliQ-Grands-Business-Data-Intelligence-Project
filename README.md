@@ -13,7 +13,7 @@ This project delivers **interactive dashboards, SQL-driven analysis, and busines
 ---
 
 ## 🌐 Live Dashboard
-👉 [Click here to view the interactive dashboard](https://img.shields.io/badge/PowerBI-Dashboard-blue?style=for-the-badge&logo=powerbi)](YOUR_DASHBOARD_LINK)  
+👉 [Click here to view the interactive dashboard](https://img.shields.io/badge/PowerBI-Dashboard-blue?style=for-the-badge&logo=powerbi)]  
   
 
 
