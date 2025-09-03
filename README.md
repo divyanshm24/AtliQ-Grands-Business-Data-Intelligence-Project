@@ -8,7 +8,7 @@ In recent years, the company has been losing **market share and revenue** in the
 
 To counter this, the **Revenue Management Team** decided to adopt **Business & Data Intelligence** by leveraging historical data to generate actionable insights.  
 
-This project delivers **interactive dashboards, SQL-driven analysis, and business recommendations** to help AtliQ Grands regain market share, optimize revenue, and improve overall business performance.  
+This project delivers **interactive dashboards and business recommendations** to help AtliQ Grands regain market share, optimize revenue, and improve overall business performance.  
 
 ---
 
