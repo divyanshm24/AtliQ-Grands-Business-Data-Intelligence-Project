@@ -37,10 +37,9 @@ The dataset consists of historical records from AtliQ Grands hotels across multi
 
 ---
 
-## 🛠️ Tools & Technologies
--   
+## 🛠️ Tools & Technologies  
 - **Power BI** – Interactive dashboard creation and storytelling.  
--**DAX** – Creating Key Measures.
+- **DAX** – Creating Key Measures.
 - **Excel** – Exploratory analysis and validation.  
 
 
